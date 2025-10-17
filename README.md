@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Merhaba, ben Emre!
 
-<!--
-**bayakcali/bayakcali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yazılıma hobi olarak başladım ve öğrenme yolculuğumda her gün yeni bir şey keşfetmekten keyif alıyorum.  
+Şu anda **Python**, **Makine Öğrenimi** ve **Veri Bilimi** konularında kendimi geliştiriyorum.  
 
-Here are some ideas to get you started:
+🧠 Öğrendiklerimi küçük projelerle pekiştiriyor, hatalarımı ise öğretmenim olarak görüyorum.  
+🚀 Hedefim; zamanla yapay zeka ve veri analitiği alanında anlamlı projeler üretebilmek.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Şu anda ilgilendiğim konular:
+- Python 🐍  
+- NumPy, Pandas, Matplotlib  
+- Makine Öğrenimi (Scikit-Learn)  
+- Veri Görselleştirme  
+
+## 📂 Üzerinde çalıştığım örnek proje:
+**KNN algoritmasıyla araba fiyat tahmini**
+
+## 💬 Benimle ilgili birkaç not:
+- Denemekten korkmam, yanlış yapsam da denerim.  
+- Kod yazmak benim için sadece teknik bir şey değil, aynı zamanda keyifli bir uğraş.  
+- Öğrendiklerimi paylaşmayı ve başkalarının deneyimlerinden ilham almayı seviyorum.
+
+📫 Bana ulaşmak istersen: [https://linkedin.com/in/emreakçali][https://github.com/bayakcali]
